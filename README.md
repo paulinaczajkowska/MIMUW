@@ -1,3 +1,3 @@
-<span style="color: pink;"> # MIMUW
-A collection of my Computer Science projects.</span>
+# MIMUW 
 
+<span style="color: pink;">A collection of my Computer Science projects. </span>
