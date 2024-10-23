@@ -12,9 +12,8 @@
 
 // Należy wypełnić
 struct interesant {
-    // Twój kod zaczyna się tu
-
-    // A kończy tu
+  int nr;
+  interesant *l1, *l2;
 };
 
 /**
